@@ -33,7 +33,7 @@ This project was developed with the following technologies:
 
 ## Link
 
-Test the application by clicking on this link: [App().]
+Test the application by clicking on this link: [App]()
 
 ## License
 
