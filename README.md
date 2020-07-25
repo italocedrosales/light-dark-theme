@@ -14,11 +14,11 @@
 Setting up a dark and light theme in your application with a Theme Switcher created with ReactJS, Styled Components, and TypeScript.
 
 <h1 align="center">
-    <img alt="light-theme" src="" width="500px" />
+    <img alt="light-theme" src="https://github.com/italocedrosales/light-dark-theme/blob/master/assets/light-theme.png" width="500px" />
 </h1>
 
 <h1 align="center">
-    <img alt="dark-theme" src="" width="500px" />
+    <img alt="dark-theme" src="https://github.com/italocedrosales/light-dark-theme/blob/master/assets/dark-theme.png" width="500px" />
 </h1>
 
 ## Technologies
